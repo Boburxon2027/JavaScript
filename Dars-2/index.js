@@ -11,3 +11,6 @@ console.log("bo1_xan");
 //node index;
 //cd Dars-2;
 //cd ..;   chiqish;
+// ==============================================
+
+// 
